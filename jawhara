@@ -224,9 +224,9 @@
 
         <section class="card">
             <h2 class="card-title">معرض أعمالنا في جدة</h2>
-            <img src="FB_IMG_1790797287550.jpg" alt="عمل تركيب سيراميك وبورسلين" class="gallery-img">
-            <img src="FB_IMG_1791458732434.jpg" alt="شغل رخام وسلابات" class="gallery-img">
-            <img src="FB_IMG_1792180094213.jpg" alt="تشطيب حمامات ومطابخ" class="gallery-img">
+            <img src="FB_IMG_1790797287550.jpg" alt="معرض أعمالنا" class="gallery-img">
+            <img src="FB_IMG_1791458732434.jpg" alt="معرض أعمالنا" class="gallery-img">
+            <img src="FB_IMG_1792180094213.jpg" alt="معرض أعمالنا" class="gallery-img">
         </section>
 
     </div>
@@ -238,4 +238,3 @@
 
 </body>
 </html>
-
